@@ -55,27 +55,15 @@ chmod +x s3r4ph1.py
 python3 s3r4ph1.py
 
 Вы можете запустить скрипт несколькими способами в зависимости от того, что вы хотите сделать:
-
- Загрузить правила iptables:
-
+Загрузить правила iptables
 bash
-
 sudo ./s3r4ph1.py --load
-
 Сбросить правила iptables:
-
 bash
-
 sudo ./s3r4ph1.py --flush
-
 Получить текущий публичный IP-адрес:
-
 bash
-
 ./s3r4ph1.py --ip
-
 Изменить цепочку и получить новый IP:
-
 bash
-
 sudo ./s3r4ph1.py --refresh
