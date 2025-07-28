@@ -1,8 +1,8 @@
-# s3r4ph1
+# An3r4ph1
 
 **s3r4ph1** is a Python script that uses Tor for anonymizing internet traffic. It sets up iptables and Tor to route all services and traffic, including DNS, through the Tor network.
 
-## Author s3r4ph1
+## Author unclroot
 
 This script was written by Rupe (version 2.1).
 
